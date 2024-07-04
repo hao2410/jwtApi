@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haodv\\source\\repos\\JwtApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC21717-2252-4910-AE62-01CE8D294905}|JwtApp\\JwtApp.csproj|c:\\users\\haodv\\source\\repos\\jwtapp\\jwtapp\\jwtapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BC21717-2252-4910-AE62-01CE8D294905}|JwtApp\\JwtApp.csproj|solutionrelative:jwtapp\\jwtapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC21717-2252-4910-AE62-01CE8D294905}|JwtApp\\JwtApp.csproj|c:\\users\\haodv\\source\\repos\\jwtapp\\jwtapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC21717-2252-4910-AE62-01CE8D294905}|JwtApp\\JwtApp.csproj|solutionrelative:jwtapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC21717-2252-4910-AE62-01CE8D294905}|JwtApp\\JwtApp.csproj|c:\\users\\haodv\\source\\repos\\jwtapp\\jwtapp\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC21717-2252-4910-AE62-01CE8D294905}|JwtApp\\JwtApp.csproj|solutionrelative:jwtapp\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtApp",
+              "DocumentMoniker": "C:\\Users\\haodv\\source\\repos\\JwtApp\\JwtApp\\JwtApp.csproj",
+              "RelativeDocumentMoniker": "JwtApp\\JwtApp.csproj",
+              "ToolTip": "C:\\Users\\haodv\\source\\repos\\JwtApp\\JwtApp\\JwtApp.csproj",
+              "RelativeToolTip": "JwtApp\\JwtApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T06:38:31.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\haodv\\source\\repos\\JwtApp\\JwtApp\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "JwtApp\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\haodv\\source\\repos\\JwtApp\\JwtApp\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "JwtApp\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:37:00.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haodv\\source\\repos\\JwtApp\\JwtApp\\Program.cs",
+              "RelativeDocumentMoniker": "JwtApp\\Program.cs",
+              "ToolTip": "C:\\Users\\haodv\\source\\repos\\JwtApp\\JwtApp\\Program.cs",
+              "RelativeToolTip": "JwtApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:16:05.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
